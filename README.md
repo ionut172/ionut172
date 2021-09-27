@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ionut172
+- 👀 I’m interested in IT, full stack developer. Usually im a web developer and, more than thread, im a graphic designer. 
+- 🌱 I’m currently learning Marketing at ASE Bucharest.
+- 💞️ I’m looking to collaborate for graphic design or front end developement. 
+- 📫 To reach me, just contact me on ionutgabriel172@gmail.com
